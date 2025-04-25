@@ -1,0 +1,19 @@
+# Ignore Unity generated files
+Library/
+Temp/
+.vscode/
+.idea/
+Builds/
+
+# Ignore specific file types
+*.log
+*.bak
+*.swp
+
+# Ignore large files
+*.fbx
+*.mp4
+*.mov
+*.exe
+*.png
+*.jpg
