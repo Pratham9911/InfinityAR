@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="events.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1033"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="historical_events" custom_title="0" dock_id="3" table="4,17:mainhistorical_events"/><dock_state state="000000ff00000000fd00000001000000020000000000000000fc0100000003fb000000160064006f0063006b00420072006f00770073006500310100000000ffffffff0000000000000000fb000000160064006f0063006b00420072006f00770073006500320100000000ffffffff0000000000000000fb000000160064006f0063006b00420072006f00770073006500330100000000ffffffff0000011800ffffff000000000000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1*">INSERT INTO historical_events (Day, Month, Year, Title, Description)
+VALUES 
+(13, 3, 1781, 'Uranus Discovered', 'Uranus was discovered by William Herschel.'),
+(30, 3, 1879, 'Albert Einstein Born', 'Albert Einstein, the famous physicist, was born.'),
+(20, 7, 1969, 'Moon Landing', 'Apollo 11 landed on the Moon, and Neil Armstrong walked on its surface.'),
+(4, 10, 1957, 'Sputnik Launched', 'The Soviet Union launched Sputnik 1, the first artificial satellite.'),
+(12, 4, 1961, 'First Human in Space', 'Yuri Gagarin became the first human to travel into space aboard Vostok 1.'),
+(1, 1, 1801, 'First Asteroid Discovered', 'Giuseppe Piazzi discovered Ceres, the first known asteroid.'),
+(25, 12, 2021, 'James Webb Space Telescope Launched', 'NASA launched the James Webb Space Telescope to explore the universe in infrared light.');
+</sql><current_tab id="0"/></tab_sql></sqlb_project>

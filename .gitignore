@@ -10,10 +10,10 @@ Builds/
 *.bak
 *.swp
 
-# Ignore large files
-*.fbx
-*.mp4
-*.mov
-*.exe
-*.png
-*.jpg
+# Ignore large files (if these are actually not needed)
+# *.fbx
+# *.png
+# *.jpg
+# *.mp4
+# *.mov
+# *.exe

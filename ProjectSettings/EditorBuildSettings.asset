@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: e2ab6b5c06c565a4da83b227d9a8f6a0
+  - enabled: 1
+    path: Assets/Scenes/Planets/Earth.unity
+    guid: f3f3788b99d9e7442a9f62348af86fdf
+  - enabled: 1
+    path: Assets/Scenes/Planets/Mercury.unity
+    guid: dadce275ba0886e4a8f6fa9d26a512e7
+  - enabled: 1
+    path: Assets/Scenes/Dashboard.unity
+    guid: 3f015693e3346af4b9d9085cb4d3fb18
+  - enabled: 1
+    path: Assets/Scenes/Gslv.unity
+    guid: 6364828d0b46e0a4c8dc107316893920
+  - enabled: 1
+    path: Assets/Scenes/Solar Dashboard.unity
+    guid: 997af7f1f1de1ac448fff20ee57719f5
+  - enabled: 1
+    path: Assets/Scenes/Planets/Jupiter.unity
+    guid: 4993e11906aebb84e96a04fbc7c38ff7
+  - enabled: 1
+    path: Assets/Scenes/Planets/Mars.unity
+    guid: cc894961eef536943be054898ff41c7e
+  - enabled: 1
+    path: Assets/Scenes/Planets/Neptune.unity
+    guid: 1bb05cf51bfd43d4c89bfea1e64c449a
+  - enabled: 1
+    path: Assets/Scenes/Planets/Saturn.unity
+    guid: 48eac95664dbef148b46ccd04695e5e6
+  - enabled: 1
+    path: Assets/Scenes/Planets/Uranus.unity
+    guid: d2c662e0ab15efa49bbdbf27484a06b7
+  - enabled: 1
+    path: Assets/Scenes/Planets/venus.unity
+    guid: 4acddad43b195bb40b6a8db3c6598c79
+  - enabled: 1
+    path: Assets/Scenes/Space Dashboard.unity
+    guid: 578628c4d1d9278469938314789dfec5
+  - enabled: 1
+    path: Assets/Scenes/Planets/Sun.unity
+    guid: 9ce9ff05fefcab543b318c3fe1b585bc
+  - enabled: 1
+    path: Assets/Scenes/Planets/Solar System.unity
+    guid: 356015ad1bde51a469f995833b535639
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
