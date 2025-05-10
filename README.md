@@ -43,7 +43,7 @@ InfinityAR was born out of the desire to make space science exciting and accessi
 
 ## 📦 Developer Notes
 - **Latest Version (2.2.3)**
-  Telegram :[t.me/InfinityAR999](url)
+  Telegram :[https://t.me/InfinityAR999](url)
 - **Important:**  
   - Do **NOT** track large files like `saturn.blend` and `vuforia engine` package in Git. Keep them locally or download when needed.
   - Use Git LFS to track `.fbx`, `.png`, and other large assets:
