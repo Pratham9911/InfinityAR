@@ -43,7 +43,7 @@ InfinityAR was born out of the desire to make space science exciting and accessi
 
 ## 📦 Developer Notes
 - **Latest Version (2.2.5)**
-  Website :[Infinityar.carrd.co](url)
+  Website :[https://infinityar.carrd.co/](url)
 - **Important:**  
   - Do **NOT** track large files like `saturn.blend` and `vuforia engine` package in Git. Keep them locally or download when needed.
   - Use Git LFS to track `.fbx`, `.png`, and other large assets:
