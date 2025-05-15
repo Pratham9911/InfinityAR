@@ -37,7 +37,7 @@ InfinityAR was born out of the desire to make space science exciting and accessi
 - ✅ **Feb 2025** → 3D models created in Blender and Unity-Vuforia AR integration 
 - ✅ **Mar 2025** → UI design and Implemented Features
 - ✅ **Apr 2025** → Added Data Bases (SQL and FireBase)
-- ⏳ **Next** → controllable Mars Rover , Voice Command ...
+- ⏳ **Next** → controllable Mars Rover , Voice Command , Announcements...
 
 ---
 
