@@ -3,6 +3,7 @@
 InfinityAR is an educational augmented reality (AR) app designed to visualize the solar system, planets, and ISRO rockets and more interactively. The project aims to make space learning fun, engaging, and accessible, especially for students in rural and underserved regions.
 
 ---
+<img width="1056" height="851" alt="Screenshot 2025-09-25 202042" src="https://github.com/user-attachments/assets/b06b0fd5-8c92-4f38-b4a1-07416861a713" />
 
 ## ✨ Features
 
